@@ -1,0 +1,38 @@
+@{
+    ViewData["Title"]="EDITANDO";
+}
+@model List<login.Models.Usuarios>
+<div>    
+    <h3>EDITAR</h3>
+    <br>    
+
+    <table class="table">
+        <tr>
+            <th scope="col">ID</th>            
+            <th scope="col">USERID</th>
+            <th scope="col">NOMBRE</th>
+            <th scope="col">CONTRASEÑA</th>
+            <th scope="col">PRIVILEGIOS</th>
+            <th scope="col">OPCIONES</th>  
+        </tr>
+                 
+            @foreach(var item in Model)
+            {
+                <tr>                                    
+                    <th scope="col"><input type="text" name="usuario_registra"  disabled value=@item.Id ></th>
+                    <th scope="col"><input type="text" name="usuario_registra"  value=@item.Userid></th>
+                    <th scope="col"><input type="text" name="usuario_registra"  value=@item.Nombre></th>
+                    <th scope="col"><input type="text" name="usuario_registra"  value=@item.Pass></th>
+                    <th scope="col">XXXXXXXXXXXX</th>
+                    <th>
+                        <td>
+                        @Html.ActionLink("Editar","Editar", new { id = @item.Id }, new{ @class="btn btn-secondary"})                   
+                        @Html.ActionLink("Guardar","Guardar", new { id = @item.Id }, new{ @class="btn btn-success"})                                        
+                        </td>                        
+                    </th>                                   
+                </tr> 
+            }
+    </table>
+    @Html.ActionLink("Regresar","ViewUs", new {}, new{ @class="btn btn-warning"})
+
+</div>
