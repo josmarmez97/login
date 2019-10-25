@@ -26,7 +26,9 @@ namespace login.Models
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.HasPostgresExtension("adminpack")
-                .HasAnnotation("ProductVersion", "2.2.6-servicing-10079");
+                .HasAnnotation("ProductVersion", "2.2.6-servicing-10079")
+                .Entity<Usuarios>()
+                .HasKey(r=>r.id);
         }
     }
 }

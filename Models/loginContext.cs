@@ -1,6 +1,4 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace login.Models
 {
@@ -70,19 +68,19 @@ namespace login.Models
             {
                 entity.ToTable("usuarios");
 
-                entity.Property(e => e.Id)
+                entity.Property(e => e.id)
                     .HasColumnName("id")
                     .HasDefaultValueSql("nextval('usarios_id_seq'::regclass)");
 
-                entity.Property(e => e.Nombre)
+                entity.Property(e => e.nombre)
                     .HasColumnName("nombre")
                     .HasMaxLength(30);
 
-                entity.Property(e => e.Pass)
+                entity.Property(e => e.pass)
                     .HasColumnName("pass")
                     .HasMaxLength(10);
 
-                entity.Property(e => e.Userid)
+                entity.Property(e => e.userid)
                     .HasColumnName("userid")
                     .HasMaxLength(30);
             });

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\proyecto final\\login\\login.csproj": {}
+    "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\login\\login.csproj": {}
   },
   "projects": {
-    "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\proyecto final\\login\\login.csproj": {
+    "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\login\\login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\proyecto final\\login\\login.csproj",
+        "projectUniqueName": "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\login\\login.csproj",
         "projectName": "login",
-        "projectPath": "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\proyecto final\\login\\login.csproj",
+        "projectPath": "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\login\\login.csproj",
         "packagesPath": "C:\\Users\\Josmar Mezeta\\.nuget\\packages\\",
-        "outputPath": "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\proyecto final\\login\\obj\\",
+        "outputPath": "D:\\Instituto Tecnológico de Cancún\\Metodologia de la prgramación\\Unidad 2\\login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -68,10 +68,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

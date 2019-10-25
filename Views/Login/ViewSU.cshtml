@@ -19,15 +19,15 @@
     @foreach (var item in Model)
         {
         <tr>                
-            <th scope="col">@item.Id</th>
-            <th scope="col">@item.Userid</th>
-            <th scope="col">@item.Nombre</th>
-            <th scope="col">@item.Pass</th>
+            <th scope="col">@item.id</th>
+            <th scope="col">@item.userid</th>
+            <th scope="col">@item.nombre</th>
+            <th scope="col">@item.pass</th>
             <th scope="col">XXXXXXXXXXXX</th>
             <th>
-                @Html.ActionLink("Eliminar","Eliminar", new { id = @item.Id }, new{ @class="btn btn-danger"})                    
-                <a href="Detalles" class="btn btn-primary">Actualizar</a>
-                <!--<a href="Eliminar/@item.Id" class="btn btn-danger">X</a>-->
+                @Html.ActionLink("Eliminar","Eliminar", new { id = @item.id }, new{ @class="btn btn-danger"})                    
+                <a href="Detalles/@item.id" class="btn btn-primary">Actualizar</a>
+                <!--<a href="Eliminar/@item.id" class="btn btn-danger">X</a>-->
             </th>                                   
         </tr>     
          }    

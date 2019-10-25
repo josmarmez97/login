@@ -1,3 +1,6 @@
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\bin\Debug\netcoreapp2.2\login.deps.json
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\bin\Debug\netcoreapp2.2\login.runtimeconfig.json
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\bin\Debug\netcoreapp2.2\login.runtimeconfig.dev.json
@@ -6,7 +9,6 @@ D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\pro
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\bin\Debug\netcoreapp2.2\login.Views.dll
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\bin\Debug\netcoreapp2.2\login.Views.pdb
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.csprojAssemblyReference.cache
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.csproj.CoreCompileInputs.cache
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.RazorAssemblyInfo.cache
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.RazorAssemblyInfo.cs
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.AssemblyInfoInputs.cache
@@ -14,21 +16,57 @@ D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\pro
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.TagHelpers.input.cache
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.TagHelpers.output.cache
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.RazorCoreGenerate.cache
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\Detalles.g.cshtml.cs
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\Ingresa.g.cshtml.cs
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\Login.g.cshtml.cs
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\ViewSU.g.cshtml.cs
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
-D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\Detalles.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\Ingresa.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\Login.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\ViewSU.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.RazorTargetAssemblyInfo.cache
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.RazorTargetAssemblyInfo.cs
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.Views.pdb
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.dll
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.pdb
 D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\proyecto final\login\obj\Debug\netcoreapp2.2\login.csproj.CopyComplete
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\bin\Debug\netcoreapp2.2\login.deps.json
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\bin\Debug\netcoreapp2.2\login.runtimeconfig.json
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\bin\Debug\netcoreapp2.2\login.runtimeconfig.dev.json
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\bin\Debug\netcoreapp2.2\login.dll
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\bin\Debug\netcoreapp2.2\login.pdb
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\bin\Debug\netcoreapp2.2\login.Views.dll
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\bin\Debug\netcoreapp2.2\login.Views.pdb
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.csprojAssemblyReference.cache
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.RazorAssemblyInfo.cache
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.RazorAssemblyInfo.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.AssemblyInfoInputs.cache
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.AssemblyInfo.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.TagHelpers.input.cache
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.TagHelpers.output.cache
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.RazorCoreGenerate.cache
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\Detalles.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\Ingresa.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\Login.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\Login\ViewSU.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.RazorTargetAssemblyInfo.cache
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.RazorTargetAssemblyInfo.cs
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.Views.pdb
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.dll
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.pdb
+D:\Instituto Tecnológico de Cancún\Metodologia de la prgramación\Unidad 2\login\obj\Debug\netcoreapp2.2\login.csproj.CopyComplete
