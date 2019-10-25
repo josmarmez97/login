@@ -6,14 +6,14 @@
     <p>Ingrese usuario y contraseña</p>    
 </div>
 <div>
-    <form action="Login/Entrar" method="post">
+    <form asp-action="Login" method="post">
             <label>
                 Usuario:
-                <input type="text" name="usuario">
+                <input type="text" name="usuario" id="usuario">
             </label><br><br>
             <label>
                 Contraseña:
-                <input type="password" name="pass">                
+                <input type="password" name="pass" id="pass">       
             </label><br>
             <input type="submit" name ="Entrar"><br>
     </form>
