@@ -1,0 +1,30 @@
+@{
+    ViewData["Title"]="WELCOME SU";
+}
+@model List<login_martin.Models.Vistas>
+<div>
+    <h2>Bienvenido SUPER USUARIO</h2>
+    <h3>INDEX</h3>
+    <table class="table">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">USERID</th>
+            <th scope="col">NOMBRE</th>            
+            <th scope="col">PRIVILEGIOS</th>
+            <th scope="col">CONTRASEÑA</th>
+            <th scope="col">OPCIONES</th>
+        </tr>
+    @foreach (var itemx in Model)
+        {
+        <tr>                
+            <th scope="col">@itemx.id</th>
+            <th scope="col">@itemx.userid</th>
+            <th scope="col">@itemx.nombre</th>            
+            <th scope="col">@itemx.privilegio</th>
+            <th scope="col">@itemx.pass</th>                                               
+        </tr>     
+         }    
+    </table>
+    <br><br>
+    <a href="IngresarUsuario" class="btn btn-dark">Salir</a>
+</div>

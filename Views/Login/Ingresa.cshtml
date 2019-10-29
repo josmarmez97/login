@@ -1,0 +1,38 @@
+@{
+    ViewData["Title"]="Registra";
+}
+@model List<login.Models.Roles>
+<div>
+    <h1>REGISTRO</h1>
+    <p>Ingrese los datos de la nueva persona</p>    
+</div>
+<div>
+    <form action="Registrar" method="post">                        
+            <label>
+                Userid:
+                <input type="text" name="usuario_registra">
+            </label><br><br>
+            <label>
+                Nombre:
+                <input type="text" name="nombre_registra">                
+            </label><br><br>    
+            <label>
+                Password:
+                <input type="password" name="pass_registra">
+            </label><br><br>
+            <div>
+                <h6>Rol de Usuario</h6>
+                    <select name="rol" id="rolesXD">
+                    @foreach(var item in Model)
+                    {
+                        <option value ="@item.id" >
+                            @item.nombre_rol
+                        </option>                        
+                    }
+                    </select>
+            </div>
+            <br><br>
+            <input type="submit" name ="XD" class="btn btn-success">
+            <a href="ViewSU" class="btn btn-warning">Regresar</a>
+    </form>
+</div> 
